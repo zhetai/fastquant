@@ -1,0 +1,15 @@
+{
+  "name": "fastq",
+  "version": "1.0.0",
+  "description": "Backtest and optimize your ML trading strategies with only 3 lines of code!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhetai/fastquant"
+  },
+  "author": "zhetai",
+  "license": "MIT"
+}
